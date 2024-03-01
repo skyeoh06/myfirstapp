@@ -7,6 +7,7 @@ function App() {
     <diV> 
       <Layout>
         <h1>Say</h1>
+        <h2>Hello</h2>
       </Layout>
     </diV>
   );
