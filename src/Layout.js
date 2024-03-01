@@ -1,9 +1,9 @@
 import './home.module.css';
 
-const Layout = ({childen}) => {
+const Layout = ({children}) => {
     return (  <div>
-        <nav>Home</nav>
-        {childen}
+        <nav>Home About</nav>
+        {children}
     </div>);
 }
  
